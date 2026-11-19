@@ -1,0 +1,154 @@
+{
+ "/images/og-photo.jpg": {
+  "w": 480,
+  "h": 630,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   480
+  ],
+  "base": "/images/_opt/og-photo.1a74e11db6",
+  "stamp": "1a74e11db6"
+ },
+ "/images/post-1.jpg": {
+  "w": 720,
+  "h": 1280,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   720
+  ],
+  "base": "/images/_opt/post-1.485e08ae96",
+  "stamp": "485e08ae96"
+ },
+ "/images/post-10.jpg": {
+  "w": 640,
+  "h": 1136,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640
+  ],
+  "base": "/images/_opt/post-10.4ca2285d2f",
+  "stamp": "4ca2285d2f"
+ },
+ "/images/post-2.jpg": {
+  "w": 720,
+  "h": 1280,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   720
+  ],
+  "base": "/images/_opt/post-2.03daa0a25e",
+  "stamp": "03daa0a25e"
+ },
+ "/images/post-3.jpg": {
+  "w": 640,
+  "h": 1136,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640
+  ],
+  "base": "/images/_opt/post-3.332ce39e4d",
+  "stamp": "332ce39e4d"
+ },
+ "/images/post-4.jpg": {
+  "w": 720,
+  "h": 1280,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   720
+  ],
+  "base": "/images/_opt/post-4.d45853b979",
+  "stamp": "d45853b979"
+ },
+ "/images/post-5.jpg": {
+  "w": 640,
+  "h": 1136,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640
+  ],
+  "base": "/images/_opt/post-5.b687ffcab7",
+  "stamp": "b687ffcab7"
+ },
+ "/images/post-6.jpg": {
+  "w": 640,
+  "h": 1136,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640
+  ],
+  "base": "/images/_opt/post-6.a086733f02",
+  "stamp": "a086733f02"
+ },
+ "/images/post-7.jpg": {
+  "w": 1080,
+  "h": 1440,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/post-7.a73e35aaf1",
+  "stamp": "a73e35aaf1"
+ },
+ "/images/post-8.jpg": {
+  "w": 1080,
+  "h": 1920,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/post-8.f4c7cbe5de",
+  "stamp": "f4c7cbe5de"
+ },
+ "/images/post-9.jpg": {
+  "w": 640,
+  "h": 1136,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640
+  ],
+  "base": "/images/_opt/post-9.3e56237587",
+  "stamp": "3e56237587"
+ }
+}
